@@ -3,9 +3,13 @@
 欢迎来到我的 GitHub 主页！一个热爱写代码、也爱折腾各种技术的全栈开发者。
 
 ## 🚀 关于我
+### 📧 邮箱
 ```text
-📧 邮箱：Mlphmicro@outlook.com
-📱 QQ：3298529755
+Mlphmicro@outlook.com
+```
+### 📱 QQ
+```text
+3298529755
 ```
 - 🔭 **最近在搞**：一个基于 Java 的 Minecraft 服务器插件，还有配套的 Web 管理后台
 - 🌱 **正在学**：Spring Cloud 微服务，还有怎么让服务器跑得更快更稳
